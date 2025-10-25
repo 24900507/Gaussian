@@ -1,6 +1,6 @@
-# Gaussian Elimination
-## Developed by: AKASH G
-## Register No.: 212224100004
+# Ex - 06 Gaussian Elimination
+## Developed by : AKASH G
+## Register No. : 212224100004
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
@@ -9,10 +9,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. Import numberical python
-2. Import sys
-3. Give the input
-4. Type the required functions
+1. First , we want to import numpy , then import sys , assume a variable.
+2. For gaussian elimination method, we want to make 2nd and 3rd column zero.
+3. For that we want to make a range accorting to our program output.
+4. Then print the program with correct form then the output will display.
 ## Program:
 ```
 Program to solve a matrix using Gaussian elimination without partial pivoting.
